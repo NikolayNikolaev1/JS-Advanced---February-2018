@@ -14,21 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="01. Sum_Numbers.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1. Document Object Model/01. Sum_Numbers.html">
+      <file leaf-file-name="02. Show_More.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1. Document Object Model/02. Show_More.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-              <folding />
+            <state relative-caret-position="170">
+              <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sumNumbers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1. Document Object Model/JavaScript/sumNumbers.js">
+      <file leaf-file-name="showMore.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1. Document Object Model/JavaScript/showMore.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="33" lean-forward="true" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+              <caret line="2" column="57" lean-forward="false" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -50,8 +52,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1. Document Object Model/01. Sum_Numbers.html" />
         <option value="$PROJECT_DIR$/1. Document Object Model/JavaScript/sumNumbers.js" />
+        <option value="$PROJECT_DIR$/1. Document Object Model/01. Sum_Numbers.html" />
+        <option value="$PROJECT_DIR$/1. Document Object Model/02. Show_More.html" />
+        <option value="$PROJECT_DIR$/1. Document Object Model/JavaScript/showMore.js" />
       </list>
     </option>
   </component>
@@ -135,17 +139,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.01. Sum_Numbers.html">
+  <component name="RunManager" selected="JavaScript Debug.02. Show_More.html">
     <configuration name="01. Sum_Numbers.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/1. Document Object Model/01. Sum_Numbers.html" />
+    <configuration name="02. Show_More.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/1. Document Object Model/02. Show_More.html" />
     <configuration name="sumNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="sumNumbers.js" working-dir="$PROJECT_DIR$/1. Document Object Model/JavaScript" />
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.01. Sum_Numbers.html" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.sumNumbers.js" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.02. Show_More.html" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.01. Sum_Numbers.html" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.sumNumbers.js" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.02. Show_More.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.01. Sum_Numbers.html" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.sumNumbers.js" />
       </list>
     </recent_temporary>
   </component>
@@ -166,12 +173,12 @@
       <workItem from="1519225714810" duration="618000" />
       <workItem from="1519313184066" duration="701000" />
       <workItem from="1519481783554" duration="423000" />
-      <workItem from="1519482293773" duration="513000" />
+      <workItem from="1519482293773" duration="843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2267000" />
+    <option name="totallyTimeSpent" value="2597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="18" width="1512" height="846" extended-state="1" />
@@ -241,9 +248,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1. Document Object Model/01. Sum_Numbers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        <state relative-caret-position="153">
+          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. Document Object Model/JavaScript/showMore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="57" lean-forward="false" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. Document Object Model/02. Show_More.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
