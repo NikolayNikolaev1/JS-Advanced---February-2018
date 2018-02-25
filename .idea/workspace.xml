@@ -14,21 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="03. Delete_From_Table.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2. DOM Manipulation/03. Delete_From_Table.html">
+      <file leaf-file-name="04. Stopwatch.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2. DOM Manipulation/04. Stopwatch.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-              <folding />
+            <state relative-caret-position="170">
+              <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="deleteFromTable.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2. DOM Manipulation/JavaScript/deleteFromTable.js">
+      <file leaf-file-name="stopwatch.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2. DOM Manipulation/JavaScript/stopwatch.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="221">
+              <caret line="13" column="60" lean-forward="false" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -68,6 +70,8 @@
         <option value="$PROJECT_DIR$/2. DOM Manipulation/JavaScript/addAndDelete.js" />
         <option value="$PROJECT_DIR$/2. DOM Manipulation/03. Delete_From_Table.html" />
         <option value="$PROJECT_DIR$/2. DOM Manipulation/JavaScript/deleteFromTable.js" />
+        <option value="$PROJECT_DIR$/2. DOM Manipulation/04. Stopwatch.html" />
+        <option value="$PROJECT_DIR$/2. DOM Manipulation/JavaScript/stopwatch.js" />
       </list>
     </option>
   </component>
@@ -84,7 +88,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="72" />
+    <option name="x" value="78" />
     <option name="y" value="22" />
     <option name="width" value="1512" />
     <option name="height" value="847" />
@@ -195,15 +199,15 @@
       <workItem from="1519481783554" duration="423000" />
       <workItem from="1519482293773" duration="5140000" />
       <workItem from="1519572050919" duration="97000" />
-      <workItem from="1519572440263" duration="3784000" />
+      <workItem from="1519572440263" duration="6074000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10775000" />
+    <option name="totallyTimeSpent" value="13065000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="22" width="1512" height="847" extended-state="0" />
+    <frame x="78" y="22" width="1512" height="847" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -397,9 +401,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2. DOM Manipulation/JavaScript/deleteFromTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="34">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. DOM Manipulation/JavaScript/stopwatch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="60" lean-forward="false" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. DOM Manipulation/04. Stopwatch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
