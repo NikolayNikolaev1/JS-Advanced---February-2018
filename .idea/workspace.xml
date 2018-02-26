@@ -14,21 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="03. Countries_Table.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4. JQery/03. Countries_Table.html">
+      <file leaf-file-name="04. Link_Buttons.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4. JQery/04. Link_Buttons.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="countriesTable.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4. JQery/JavaScript/countriesTable.js">
+      <file leaf-file-name="link-buttons.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4. JQery/JavaScript/link-buttons.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -39,9 +39,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -85,6 +85,9 @@
         <option value="$PROJECT_DIR$/4. JQery/JavaScript/searchInList.js" />
         <option value="$PROJECT_DIR$/4. JQery/03. Countries_Table.html" />
         <option value="$PROJECT_DIR$/4. JQery/JavaScript/countriesTable.js" />
+        <option value="$PROJECT_DIR$/4. JQery/CSS/link-buttons.css" />
+        <option value="$PROJECT_DIR$/4. JQery/04. Link_Buttons.html" />
+        <option value="$PROJECT_DIR$/4. JQery/JavaScript/link-buttons.js" />
       </list>
     </option>
   </component>
@@ -134,12 +137,6 @@
               <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
               <item name="4. JQery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
-              <item name="4. JQery" type="462c0819:PsiDirectoryNode" />
-              <item name="JavaScript" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,12 +212,12 @@
       <workItem from="1519482293773" duration="5140000" />
       <workItem from="1519572050919" duration="97000" />
       <workItem from="1519572440263" duration="10048000" />
-      <workItem from="1519660859986" duration="8757000" />
+      <workItem from="1519660859986" duration="10283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25796000" />
+    <option name="totallyTimeSpent" value="27322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="78" y="23" width="1512" height="846" extended-state="0" />
@@ -516,8 +513,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4. JQery/JavaScript/countriesTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+        <state relative-caret-position="47">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. JQery/CSS/link-buttons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. JQery/04. Link_Buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. JQery/JavaScript/link-buttons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
