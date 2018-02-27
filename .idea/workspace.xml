@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="aggregates.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/6. Advanced Functions/aggregates.js">
+      <file leaf-file-name="currencyFormat.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6. Advanced Functions/currencyFormat.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="204">
+              <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -81,6 +81,7 @@
         <option value="$PROJECT_DIR$/4. JQery/05. Selectable_Towns.html" />
         <option value="$PROJECT_DIR$/4. JQery/JavaScript/select-towns.js" />
         <option value="$PROJECT_DIR$/6. Advanced Functions/aggregates.js" />
+        <option value="$PROJECT_DIR$/6. Advanced Functions/currencyFormat.js" />
       </list>
     </option>
   </component>
@@ -166,26 +167,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.aggregates.js">
-    <configuration name="01. Sum_Numbers.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/1. Document Object Model/01. Sum_Numbers.html" />
+  <component name="RunManager" selected="Node.js.currencyFormat.js">
     <configuration name="02. Show_More.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/1. Document Object Model/02. Show_More.html" />
     <configuration name="04. Colorize_Table.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/1. Document Object Model/04. Colorize_Table.html" />
     <configuration name="05. Selectable_Towns.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Advanced/4. JQery/05. Selectable_Towns.html" />
     <configuration name="aggregates.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="aggregates.js" working-dir="$PROJECT_DIR$/6. Advanced Functions" />
+    <configuration name="currencyFormat.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="currencyFormat.js" working-dir="$PROJECT_DIR$/6. Advanced Functions" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.01. Sum_Numbers.html" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.02. Show_More.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.04. Colorize_Table.html" />
-      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.05. Selectable_Towns.html" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.aggregates.js" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.02. Show_More.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.04. Colorize_Table.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.05. Selectable_Towns.html" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.aggregates.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.currencyFormat.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.aggregates.js" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.05. Selectable_Towns.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.04. Colorize_Table.html" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.02. Show_More.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.01. Sum_Numbers.html" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.currencyFormat.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.aggregates.js" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.05. Selectable_Towns.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.04. Colorize_Table.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.02. Show_More.html" />
       </list>
     </recent_temporary>
   </component>
@@ -210,12 +211,12 @@
       <workItem from="1519572050919" duration="97000" />
       <workItem from="1519572440263" duration="10048000" />
       <workItem from="1519660859986" duration="11861000" />
-      <workItem from="1519748633721" duration="1086000" />
+      <workItem from="1519748633721" duration="1911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29986000" />
+    <option name="totallyTimeSpent" value="30811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="78" y="23" width="1512" height="846" extended-state="0" />
@@ -566,8 +567,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/6. Advanced Functions/aggregates.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6. Advanced Functions/currencyFormat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
           <folding />
         </state>
       </provider>
