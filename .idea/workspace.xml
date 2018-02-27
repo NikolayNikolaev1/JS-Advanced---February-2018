@@ -14,11 +14,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="commandProcesor.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/6. Advanced Functions/commandProcesor.js">
+      <file leaf-file-name="maxElement.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6. Advanced Functions/maxElement.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06. Highlight_Active.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2. DOM Manipulation/06. Highlight_Active.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="61" lean-forward="true" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="highlight-active.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2. DOM Manipulation/CSS/highlight-active.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -29,9 +49,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -64,7 +84,6 @@
         <option value="$PROJECT_DIR$/2. DOM Manipulation/css/mouseGradient.css" />
         <option value="$PROJECT_DIR$/2. DOM Manipulation/05. Mouse_Gradient.html" />
         <option value="$PROJECT_DIR$/2. DOM Manipulation/JavaScript/mouseGradient.js" />
-        <option value="$PROJECT_DIR$/2. DOM Manipulation/06. Highlight_Active.html" />
         <option value="$PROJECT_DIR$/2. DOM Manipulation/JavaScript/highlightActive.js" />
         <option value="$PROJECT_DIR$/2. DOM Manipulation/07. Dynamic_Validation.html" />
         <option value="$PROJECT_DIR$/2. DOM Manipulation/JavaScript/dynamicValidation.js" />
@@ -83,6 +102,10 @@
         <option value="$PROJECT_DIR$/6. Advanced Functions/aggregates.js" />
         <option value="$PROJECT_DIR$/6. Advanced Functions/currencyFormat.js" />
         <option value="$PROJECT_DIR$/6. Advanced Functions/commandProcesor.js" />
+        <option value="$PROJECT_DIR$/6. Advanced Functions/maxElement.js" />
+        <option value="$PROJECT_DIR$/2. DOM Manipulation/CSS/highligh0active.css" />
+        <option value="$PROJECT_DIR$/2. DOM Manipulation/CSS/highlight-active.css" />
+        <option value="$PROJECT_DIR$/2. DOM Manipulation/06. Highlight_Active.html" />
       </list>
     </option>
   </component>
@@ -128,6 +151,22 @@
             <path>
               <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="2. DOM Manipulation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="2. DOM Manipulation" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Advanced" type="462c0819:PsiDirectoryNode" />
+              <item name="4. JQery" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS Advanced" type="b2602c69:ProjectViewProjectNode" />
@@ -212,12 +251,12 @@
       <workItem from="1519572050919" duration="97000" />
       <workItem from="1519572440263" duration="10048000" />
       <workItem from="1519660859986" duration="11861000" />
-      <workItem from="1519748633721" duration="3455000" />
+      <workItem from="1519748633721" duration="4194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32355000" />
+    <option name="totallyTimeSpent" value="33094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="78" y="23" width="1512" height="846" extended-state="0" />
@@ -459,13 +498,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2. DOM Manipulation/06. Highlight_Active.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2. DOM Manipulation/JavaScript/highlightActive.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -530,20 +562,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4. JQery/CSS/link-buttons.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4. JQery/04. Link_Buttons.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4. JQery/JavaScript/link-buttons.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -585,8 +603,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/6. Advanced Functions/commandProcesor.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6. Advanced Functions/maxElement.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. DOM Manipulation/CSS/highligh0active.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. JQery/CSS/link-buttons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4. JQery/04. Link_Buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="53" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. DOM Manipulation/CSS/highlight-active.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2. DOM Manipulation/06. Highlight_Active.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="61" lean-forward="true" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
           <folding />
         </state>
       </provider>
